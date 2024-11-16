@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=300&section=header&text=Hello!&fontSize=70" />
 </p>
-<img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif">
+<img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567049344/noticon/ndyja5zxtcwljjfpxz5q.gif">
+
+<!-- <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif"> -->
 
 
 <!--내용 부분-->
