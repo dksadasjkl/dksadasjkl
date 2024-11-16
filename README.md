@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <p align = "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=300&section=header&text=Hello!&fontSize=70" />
-  <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567049344/noticon/ndyja5zxtcwljjfpxz5q.gif">
 </p>
-
+<div align="center">
+  <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567049344/noticon/ndyja5zxtcwljjfpxz5q.gif">
+</div>
 <!-- <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif"> -->
 
 
