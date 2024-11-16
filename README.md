@@ -67,5 +67,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&fontColor=ffffff&section=footer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=yellow&fontColor=ffffff&section=footer" alt="Typing SVG" />
 </p>
