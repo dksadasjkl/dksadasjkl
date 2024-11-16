@@ -60,10 +60,9 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://code-rjqnrdl.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 </div>
