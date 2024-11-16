@@ -66,5 +66,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&fontColor=ffffff&section=footer" alt="Typing SVG" />
+<p align = "center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&fontColor=ffffff&section=footer" alt="Typing SVG" />
+</p>
