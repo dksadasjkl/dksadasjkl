@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://code-rjqnrdl.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/tistory-#EC4815?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 </div>
