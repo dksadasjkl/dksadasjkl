@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=300&section=header&text=Hello!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Hello!&fontSize=70" />
 </p>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -67,5 +67,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&fontColor=ffffff&section=footer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=blue&fontColor=ffffff&section=footer" alt="Typing SVG" />
 </p>
