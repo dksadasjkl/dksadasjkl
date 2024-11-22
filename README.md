@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h1 align="center">✨ Tech Stack ✨</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 SCM & Deployment 🛠</h3>
+<h1 align="center">🛠 SCM & Deployment 🛠</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -66,16 +66,19 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h3 align="center">📫 Contact 📫</h3>
+<h1 align="center">📫 Contact 📫</h1>
 <div align="center">
   <a href="https://code-rjqnrdl.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   </a>
 </div>
+
+<div align=center><h1>✨ GitHub Stats ✨</h1></div>
+<div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dksadasjkl&theme=swift&show_icons=true" />
+</div>
+
 <p align = "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=808080&fontColor=ffffff&section=footer" alt="Typing SVG" />
 </p>
-<div align=center><h1>✨ GitHub Stats ✨</h1></div>
-<div align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dksadasjkl&theme=swift&show_icons=true" />
-</div>
+
