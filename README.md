@@ -75,3 +75,7 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=808080&fontColor=ffffff&section=footer" alt="Typing SVG" />
 </p>
+<div align=center><h1>✨ GitHub Stats ✨</h1></div>
+<div align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongyoon7212&theme=swift&show_icons=true" />
+</div>
