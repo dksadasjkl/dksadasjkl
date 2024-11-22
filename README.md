@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align=center><h1>✨ GitHub Stats ✨</h1></div>
+<div align=center><h1>📊  GitHub Stats 📊 </h1></div>
 <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dksadasjkl&theme=swift&show_icons=true" />
 </div>
