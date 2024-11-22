@@ -71,6 +71,10 @@ Here are some ideas to get you started:
   <a href="https://code-rjqnrdl.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   </a>
+  <a href="mailto:ckdgus6038@naver.com">
+    <img
+      src="https://img.shields.io/badge/ckdgus6038@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 <div align=center><h1>📊  GitHub Stats 📊 </h1></div>
