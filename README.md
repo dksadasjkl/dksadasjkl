@@ -78,6 +78,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dksadasjkl&theme=swift&show_icons=true" />
 </div>
 
+<br>
+<div align=center>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongyoon7212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+</div>
+
 <p align = "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=808080&fontColor=ffffff&section=footer" alt="Typing SVG" />
 </p>
