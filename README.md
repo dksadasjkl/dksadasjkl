@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${dksadasjkl}">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksadasjkl&layout=compact&theme=dracula)](https://github.com/dongduu/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dksadasjkl&layout=compact" alt="Top Langs">
   </a>
 </p>
 <div align=center><h1>📊  GitHub Stats 📊 </h1></div>
