@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567049344/noticon/ndyja5zxtcwljjfpxz5q.gif">
 </div>
-<!-- <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif"> -->
 
 
 <!--내용 부분-->
@@ -90,6 +89,6 @@ Here are some ideas to get you started:
 </div>
 
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=808080&fontColor=ffffff&section=footer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=808080&fontColor=ffffff&section=footer" alt="Typing SVG" />
 </p>
 
