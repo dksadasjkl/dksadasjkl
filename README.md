@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h1 align="center">📫 Contact 📫</h1>
+<h1 align="center">📫 Contact(Link) 📫</h1>
 <div align="center">
   <a href="https://code-rjqnrdl.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
