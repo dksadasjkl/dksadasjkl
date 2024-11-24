@@ -76,7 +76,12 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/ckdgus6038@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/${dksadasjkl}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${dksadasjkl}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  </a>
+</p>
 <div align=center><h1>📊  GitHub Stats 📊 </h1></div>
 <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dksadasjkl&theme=swift&show_icons=true" />
