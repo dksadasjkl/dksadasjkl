@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=260&section=header&text=SeoChangHyeon&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=260&section=header&text=Seo Chang Hyeon&fontSize=60" />
 </p>
-<div align="center">
-  <img width=100 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567049344/noticon/ndyja5zxtcwljjfpxz5q.gif">
-</div>
-
 
 <!--내용 부분-->
 <h1 align="center">✨ Tech Stack ✨</h1>
