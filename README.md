@@ -78,7 +78,9 @@ Here are some ideas to get you started:
   <a href="mailto:ckdgus6038@naver.com">
     <img src="https://img.shields.io/badge/ckdgus6038@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="35"/>
   </a>
+  
 ---
+
 <div align="center">
   <table>
     <tr>
@@ -94,8 +96,7 @@ Here are some ideas to get you started:
   </table>
 </div>
 
-<br>
-
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=footer"/>
 </p>
