@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 ##📫 Contact (Link) 📫
-<div align="center">
   <a href="https://code-rjqnrdl.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   </a>
