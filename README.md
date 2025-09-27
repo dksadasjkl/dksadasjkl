@@ -84,13 +84,11 @@ Here are some ideas to get you started:
 
 ##📫 Contact (Link) 📫
   <a href="https://code-rjqnrdl.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FE5F50?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-FE5F50?style=flat-square&logo=Tistory&logoColor=white" height="35"/>
   </a>
   <a href="mailto:ckdgus6038@naver.com">
-    <img
-      src="https://img.shields.io/badge/ckdgus6038@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ckdgus6038@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="35"/>
   </a>
-</div>
 <div align="center">
   <table>
     <tr>
