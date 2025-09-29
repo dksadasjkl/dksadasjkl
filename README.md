@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   본질을 이해하고 설득할 수 있는 능력을 키우며 문제를 논리적으로 해결합니다.  
   팀과 협력하며 지속적으로 학습하고 변화에 유연하게 적응합니다.
 </details>
+
 ---
 
 ## 🎓 Education 🎓
