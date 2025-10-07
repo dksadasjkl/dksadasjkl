@@ -73,9 +73,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 ### 🧩 Others
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 ### 🛠️ Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -86,9 +84,7 @@ Here are some ideas to get you started:
   <a href="https://code-rjqnrdl.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FE5F50?style=flat-square&logo=Tistory&logoColor=white" height="35"/>
   </a>
-  <a href="mailto:ckdgus6038@naver.com">
-    <img src="https://img.shields.io/badge/ckdgus6038@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" height="35"/>
-  </a>
+  <a href="mailto:ckdgus6038@naver.com"> <img src="https://img.shields.io/badge/ckdgus6038@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="35"/> </a>
   
 ---
 
