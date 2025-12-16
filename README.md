@@ -78,7 +78,23 @@
 📌 **지향하는 개발자**
 - 서비스 전체 흐름을 이해하고 설계할 수 있는 백엔드 개발자  
 - 협업과 운영을 고려한 실무 중심의 개발자  
-- 안정성과 확장성을 함께 고민하며 성장하는 개발자  
+- 안정성과 확장성을 함께 고민하며 성장하는 개발자
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://code-rjqnrdl.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FE5F50?style=flat-square&logo=Tistory&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ckdgus6038@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ckdgus6038@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
   <table>
